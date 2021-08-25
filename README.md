@@ -1,7 +1,7 @@
 # 👋 Welcome
 
 {% hint style="warning" %}
-The migration of documentation is ongoing, and thus you may find some incomplete or missing docs. If in doubt, check out the [existing docs portal](http://avaloniaui.net/docs#).
+The migration of documentation is ongoing, and thus you may find some incomplete or missing docs. If in doubt, check out the [existing docs portal](https://docs.avaloniaui.net/).
 {% endhint %}
 
 Welcome to Avalonia Documentation, a steadily growing collection of guides, documentation and API reference for Avalonia UI. 
