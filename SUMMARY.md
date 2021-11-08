@@ -2,13 +2,13 @@
 
 * [👋 Welcome](README.md)
 
-## Documentation <a id="docs"></a>
+## Documentation <a href="docs" id="docs"></a>
 
 * [⚡ Getting Started](docs/getting-started/README.md)
   * [IDE Support](docs/getting-started/ide-support/README.md)
     * [JetBrains Rider Setup](docs/getting-started/ide-support/jetbrains-rider-setup.md)
   * [Programming with Avalonia](docs/getting-started/programming-with-avalonia/README.md)
-    * [The Model-View-ViewModel Pattern \(MVVM\)](docs/getting-started/programming-with-avalonia/the-model-view-viewmodel-pattern-mvvm.md)
+    * [The Model-View-ViewModel Pattern (MVVM)](docs/getting-started/programming-with-avalonia/the-model-view-viewmodel-pattern-mvvm.md)
     * [Controls & Layouts](docs/getting-started/programming-with-avalonia/controls-and-layouts.md)
     * [Data Binding](docs/getting-started/programming-with-avalonia/data-binding.md)
     * [Graphics & Animations](docs/getting-started/programming-with-avalonia/graphics-and-animations.md)
@@ -33,6 +33,7 @@
   * [Styles](docs/styling/styles.md)
   * [Selectors](docs/styling/selectors.md)
   * [Resources](docs/styling/resources.md)
+  * [Troubleshooting](docs/styling/troubleshooting.md)
 * [🧰 Controls](docs/controls/README.md)
   * [AutoCompleteBox](docs/controls/autocompletebox.md)
   * [Border](docs/controls/border.md)
@@ -101,7 +102,7 @@
 * [📦 Distribution / Publishing](docs/distribution-publishing/README.md)
   * [macOS](docs/distribution-publishing/macos.md)
 
-## API Reference <a id="api"></a>
+## API Reference <a href="api" id="api"></a>
 
 * [🧾 Namespaces](api/untitled/README.md)
   * [Avalonia](api/untitled/avalonia-ui-framework.md)
@@ -147,6 +148,7 @@
     * [Routing](guides/deep-dives/reactiveui/routing.md)
     * [Data Persistence](guides/deep-dives/reactiveui/data-persistence.md)
 * [Developer Guides](guides/developer-guides/README.md)
+  * [🏭 Build Avalonia from Source](guides/developer-guides/build-avalonia-from-source.md)
   * [Comparison of Avalonia with WPF and UWP](guides/developer-guides/comparison-of-avalonia-with-wpf-and-uwp.md)
   * [Debugging Previewer](guides/developer-guides/debugging-previewer.md)
   * [MacOS Development](guides/developer-guides/macos-development.md)
@@ -192,5 +194,5 @@
   * [Class Handlers](misc/wpf/class-handlers.md)
   * [PropertyChangedCallback](misc/wpf/propertychangedcallback.md)
   * [RenderTransforms and RenderTransformOrigin](misc/wpf/rendertransforms-and-rendertransformorigin.md)
+* [📋 Projects that are using Avalonia](misc/projects-that-are-using-avalonia.md)
 * [❔ FAQ](misc/faq.md)
-
